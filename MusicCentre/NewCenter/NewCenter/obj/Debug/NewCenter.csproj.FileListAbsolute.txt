@@ -1,0 +1,12 @@
+C:\Users\Home\source\repos\Git\NewCenter\NewCenter\bin\Debug\NewCenter.exe.config
+C:\Users\Home\source\repos\Git\NewCenter\NewCenter\bin\Debug\NewCenter.exe
+C:\Users\Home\source\repos\Git\NewCenter\NewCenter\bin\Debug\NewCenter.pdb
+C:\Users\Home\source\repos\Git\NewCenter\NewCenter\obj\Debug\NewCenter.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\Git\NewCenter\NewCenter\obj\Debug\NewCenter.MainForm.resources
+C:\Users\Home\source\repos\Git\NewCenter\NewCenter\obj\Debug\NewCenter.Properties.Resources.resources
+C:\Users\Home\source\repos\Git\NewCenter\NewCenter\obj\Debug\NewCenter.csproj.GenerateResource.Cache
+C:\Users\Home\source\repos\Git\NewCenter\NewCenter\obj\Debug\NewCenter.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Git\NewCenter\NewCenter\obj\Debug\NewCenter.exe
+C:\Users\Home\source\repos\Git\NewCenter\NewCenter\obj\Debug\NewCenter.pdb
+C:\Users\Home\source\repos\Git\NewCenter\NewCenter\obj\Debug\NewCenter.Alert.resources
+C:\Users\Home\source\repos\Git\NewCenter\NewCenter\obj\Debug\NewCenter.DescriptionForm.resources
